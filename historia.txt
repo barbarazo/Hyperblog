@@ -2,4 +2,8 @@ esta es la historia de Victor
 
 Victor tiene 26 y nacio al reves y al derecho
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra
+=======
+Hablaremos de su vida laboral
+>>>>>>> cabecera
